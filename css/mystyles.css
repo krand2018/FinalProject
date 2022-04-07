@@ -1,0 +1,25 @@
+h1{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+/*this will be applied to the about and index page*/
+
+.headCenter{
+    text-align: center;
+}
+
+.intro{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+li{
+    padding-bottom: 10px;
+}
+
+.paddingSpace{
+    padding: 40px;
+    padding-left: 70px;
+    border: black;
+    border-style:groove;
+}
+
